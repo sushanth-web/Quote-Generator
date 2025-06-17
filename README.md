@@ -6,7 +6,7 @@ A sleek, aesthetic Quote Generator web app built with **React**. It fetches insp
 
 ## 🌐 Live Demo
 
-👉 **Check it out on Vercel**: [Live Site](https://your-vercel-link-here.vercel.app)
+👉 **Check it out on Vercel**: [Live Site](https://quote-generator-six-beta.vercel.app/)
 
 ---
 
